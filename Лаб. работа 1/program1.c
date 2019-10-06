@@ -8,7 +8,7 @@ scanf ("%i", &A);
 
 printf("B:");
 scanf ("%i", &B);
-
+printf ("text")
 printf("%d\n", (A>2) & (B<=3));
 return 0;
 }
