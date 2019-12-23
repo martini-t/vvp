@@ -1,0 +1,19 @@
+c:\users\sinner\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Calculator.dll
+c:\users\sinner\documents\visual studio 2010\Projects\Calculator\Calculator\bin\Calculator.pdb
+c:\users\sinner\documents\visual studio 2010\Projects\Calculator\Calculator\obj\Debug\ResolveAssemblyReference.cache
+c:\users\sinner\documents\visual studio 2010\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\sinner\documents\visual studio 2010\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Sinner\Desktop\Калькулятор для Тяжмаша\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sinner\Desktop\Калькулятор для Тяжмаша\Calculator\obj\Debug\Calculator.dll
+C:\Users\Sinner\Desktop\Калькулятор для Тяжмаша\Calculator\obj\Debug\Calculator.pdb
+D:\Калькуляторы\Калькулятор для Тяжмаша\Calculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Калькуляторы\Калькулятор для Тяжмаша\Calculator\obj\Debug\Calculator.dll
+D:\Калькуляторы\Калькулятор для Тяжмаша\Calculator\obj\Debug\Calculator.pdb
+D:\Калькуляторы\Калькулятор для Тяжмаша\Calculator\bin\Calculator.dll
+D:\Калькуляторы\Калькулятор для Тяжмаша\Calculator\bin\Calculator.pdb
+C:\Users\HYPERPC\Downloads\Калькулятор\Калькулятор\Calculator\bin\Calculator.dll.config
+C:\Users\HYPERPC\Downloads\Калькулятор\Калькулятор\Calculator\bin\Calculator.dll
+C:\Users\HYPERPC\Downloads\Калькулятор\Калькулятор\Calculator\bin\Calculator.pdb
+C:\Users\HYPERPC\Downloads\Калькулятор\Калькулятор\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\HYPERPC\Downloads\Калькулятор\Калькулятор\Calculator\obj\Debug\Calculator.dll
+C:\Users\HYPERPC\Downloads\Калькулятор\Калькулятор\Calculator\obj\Debug\Calculator.pdb
